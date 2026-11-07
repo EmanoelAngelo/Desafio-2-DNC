@@ -4,7 +4,9 @@ Desenvolvi o DncWeather como parte do segundo desafio da Escola DNC. A proposta 
 
 Neste projeto, avancei no uso de JavaScript para realizar requisições assíncronas, interpretar respostas em JSON e atualizar o conteúdo da interface com os dados retornados.
 
-**[Acesse a demonstração online](https://desafio-2-dnd.netlify.app/)**
+**Versão disponível: somente para computador (desktop).** Desenvolvi o layout para visualização em computadores; o projeto não possui versão adaptada para celulares ou tablets.
+
+**[Acesse a demonstração online pelo computador](https://desafio-2-dnd.netlify.app/)**
 
 ## O desafio
 
